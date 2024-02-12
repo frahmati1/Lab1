@@ -8,3 +8,9 @@ def calculate_age():
 
 if __name__ == "__main__":
     calculate_age()
+
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
+
